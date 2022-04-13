@@ -1,0 +1,22 @@
+{
+   "compilerOptions": {
+      "lib": [
+         "es5",
+         "es6"
+      ],
+      "target": "ES5",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "strict": false,
+      "esModuleInterop": true,
+      "sourceMap": true,
+      "skipLibCheck": true
+   }, 
+   "exclude": [
+      "node_modules"
+   ]
+ }

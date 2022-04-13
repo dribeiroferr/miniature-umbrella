@@ -1,0 +1,5 @@
+## Implementar: 
+
+Docker
+Kubernetes 
+RabbitMQ
